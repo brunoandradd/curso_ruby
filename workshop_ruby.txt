@@ -1,0 +1,42 @@
+CLEAN CODE:
+ 1= Classes pequenas
+ 2= nomes são importantes
+ 3= metodos pequenos
+ 4= execute ou consulte
+
+
+historia -ok
+install
+caracteristicas
+ tipagem dinamica e fortes -ok
+variaveis e constantes -ok
+  snack_case
+  primeira letra em maiuscula constante
+strings -ok
+numeros-ok
+arrays -ok
+hashes -ok
+symbol-ok
+condicionais -ok
+coleções -ok
+ranges-ok
+splat-ok
+  to_a
+Procs e blocos-ok
+  yield
+self -ok 
+POO -ok
+  - Principios de bom design POO
+    - coesão de classes e metodos
+    - metodos pequenos 
+    - metodos de consulta e execução
+
+classes -ok 
+Objetos -ok
+metodos -ok
+ruby object model -ok 
+ducky type
+
+
+desafio:
+  Dado um texto contar todas as palavras do mesmo
